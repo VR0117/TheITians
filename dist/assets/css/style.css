@@ -9,7 +9,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("/Users/vishwa/Documents/Vishwa_Patel/Mystery Code/images/istockphoto-1437609537-612x612.jpg") center center no-repeat;
+  background: #040404 url("../../images/istockphoto-1437609537-612x612.jpg") center center no-repeat;
   background-size: cover;
   background-position: center center; /* You can adjust the values here */
   left: 0;
